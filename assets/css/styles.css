@@ -240,4 +240,20 @@ margin-bottom: 1rem;
     .close-menu:checked~.menu div nav ul li a,.close-menu:checked~.menu div nav h1{
       text-align: center;
     }
+
+    h1{
+      font-size: 4rem;
+      text-transform: uppercase;
+    }
+    
+    h2{
+     
+      font-size: 4rem ;
+    
+      
+      
+    }
+    h3{
+      font-size: 2rem;
+    }
   }
